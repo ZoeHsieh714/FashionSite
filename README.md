@@ -1,6 +1,6 @@
-# PUREE FASHION EC OFFICIAL SITE VER.2016
+# PUREE FASHION EC OFFICIAL SITE VER.2016 #
 
-#ABOUT THE PROJECT
+#ABOUT THE PROJECT<br>
 To make a whole EC site contents and official website design/layout.
 
 #ROLE: Photographic Assistant/Coordinate Planner/Graphic Designer/Programmer
